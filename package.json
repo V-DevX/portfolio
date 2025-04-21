@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "postbuild": "node ./node_modules/@netlify/next/dist/build.js",
-    "lint": "next lint"
+    
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
