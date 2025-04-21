@@ -7,12 +7,12 @@ export const personalData = {
   email: 'vasanthjany@gmail.com',
   phone: '+91 63742 38411',
   address: 'Chennai, TamilNadu, India',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  github: 'https://github.com/V-DevX',
+  facebook: '#',
+  linkedIn: 'https://www.linkedin.com/in/vasanth-anto/',
+  twitter: '#',
+  stackOverflow: '#',
+  leetcode: "#",
+  devUsername: "#",
+  resume: "https://drive.google.com/file/d/1ZTijRWxvW6WtVontKlRKkuVsUZZzWTep/view?usp=drive_link"
 }
